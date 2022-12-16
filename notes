@@ -1,0 +1,22 @@
+variable syntax: var <variable name> <data type> = <value> // (EXample) : var s string = "hello" //var f float64 = 77.90
+
+//printf syntax : fmr.printf("template string %s", object args(s))
+
+// printf - format specifiers//
+verb               description
+%v                  default format
+%T                  TYPE OF THE value
+%d                  integers
+%c                  charecter
+%q                  quoted charecter/string
+%s                  plain string
+%t                  true 0r false
+%f                  floating number
+%.2f                floating numbers upto 2 decimal places    
+############## declaring variables in various ways ################
+//var name string = "khali"
+//var age int = 55
+//fmt.Println("welcome to", name ", " age )
+//fmt.Printf("welcome to %v, and he is %d", name, i)
+
+COMPARISION OPERATOR : They allow values of the same data type for comparisons
