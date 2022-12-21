@@ -23,10 +23,3 @@ func main() {
 	fmt.Print(city)
 }
 
-*************************### how we can print variable and string together.**************#######
-
-package main
-import ("fmt")
-func main(){
-
-}

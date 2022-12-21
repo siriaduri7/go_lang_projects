@@ -20,3 +20,23 @@ verb               description
 //fmt.Printf("welcome to %v, and he is %d", name, i)
 
 COMPARISION OPERATOR : They allow values of the same data type for comparisons
+EX: does one string match another?
+
+Are two numbers the same?
+
+
+################### BITWISE OPERATOR ################
+1) bitwise AND (&)
+2) bitwise OR (|)
+3) bitwise XOR ( cap symbol cntrl pinadi)
+4) right shift (>>)
+5) left shift (<<)
+bitwise AND.
+It is denoted by the single ampersand sign (&). This operator takes two numbers as operands and does AND operation 
+on every bit of two numbers. here and logic is applicable t t (t);  f f(f) ; 0 =false 1 = true
+12 =00001100 (In Binary)                      0 0 0 0 1 1 0 0
+25 =00011001 (In Binary)					  0 0 0 1 1 0 0 1
+											____________________
+											  0 0 0 0 1 0 0 0 = 8 (In Decimal)
+
+

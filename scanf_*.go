@@ -12,6 +12,8 @@ func main() {
 	 /*fmt.Print("Enter your Name = ")
 	 fmt.Scanf("%s", &name)
 	 fmt.Println("hey there, ", name)*/
+
+	 ///////////////////////////
 	 /*var name string
 	 var is_muggle bool
 
